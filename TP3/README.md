@@ -1,4 +1,4 @@
-Para ejecutar el programa, estando ubicado en la rama TP3, escribir en la terminal:
+Para ejecutar el programa, estando ubicado en la carpeta TP3, escribir en la terminal:
 
 `python3 tp3.py grafos/nombre_grafo.txt <K>`
 

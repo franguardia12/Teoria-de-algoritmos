@@ -1,4 +1,4 @@
-Para ejecutar el programa, estando ubicado en la rama TP1, escribir en la terminal:
+Para ejecutar el programa, estando ubicado en la carpeta TP1, escribir en la terminal:
 
 python3 tp1.py ruta/a/entrada.txt
 
