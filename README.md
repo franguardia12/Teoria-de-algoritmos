@@ -3,7 +3,7 @@ Trabajos realizados en la materia teoría de algoritmos de la facultad de ingeni
 
 # Trabajos
 
-(trabajos realizados junto a @MateoRequejo y @santireg)
+Integrantes: Franco Guardia (@franguardia12), Mateo Requejo (@MateoRequejo), Santino Regidor (@santireg)
 
 - TP1: implementación de un algoritmo Greedy que a partir de un conjunto de timestamps e intervalos devuelva True o False según si existe una asignación 1 a 1 de los timestamps a los intervalos
 - TP2: implementación de un algoritmo de programación dinámica que a partir de un conjunto de cadenas desencriptadas y un listado de palabras indique si cada una de esas cadenas puede separarse en un subconjunto de esas palabras. En caso de que sí se tiene que devolver el mensaje contenido (tenga este sentido o no) y en caso de que no un mensaje indicándolo
